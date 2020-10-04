@@ -1,0 +1,18 @@
+G:\SFML-2.3\include
+G:\SFML-2.3\lib
+sfml-graphics.lib;sfml-window.lib;sfml-system.lib;
+sfml-xxx-d.lib;sfml-xxx.lib;sfml-graphics.lib;sfml-window.lib;sfml-system.lib;
+
+alternative mathode
+===================
+Active(Debug)
+
+general		$(SolutionDir)/SFML<ver>/include
+All Option	$(SolutionDir)/SFML<ver>/include
+Linker		$(SoultionDir)/SFML<ver>/lib
+Input		sfml-main-d.lib
+		sfml-graphics-d.lib
+		sfml-window-d.lib
+		sfml-system-d.lib
+		sfml-audio-d.lib
+		sfml-network-d.lib

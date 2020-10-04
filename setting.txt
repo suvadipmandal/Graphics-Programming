@@ -1,0 +1,22 @@
+GNU GCC Compiler (SFML 2.3.2)
+
+SFML_STATIC
+
+
+sfml-graphics-s
+freetype
+jpeg
+sfml-window-s
+opengl32
+gdi32
+sfml-audio-s
+openal32
+flac
+vorbisenc
+vorbisfile
+vorbis
+ogg
+sfml-network-s
+ws2_32
+sfml-system-s
+winmm
